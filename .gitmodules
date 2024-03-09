@@ -1,0 +1,3 @@
+[submodule "extern/zpc"]
+	path = extern/zpc
+	url = https://github.com/zenustech/zpc.git

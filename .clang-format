@@ -1,0 +1,4 @@
+IndentWidth: 4
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+ColumnLimit: 80
